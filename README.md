@@ -27,7 +27,7 @@ A minimalist implementation of the classic Pong game built for the ATmega328P mi
 ### Software:
 
 - Atmel Studio 7 (or compatible AVR assembly IDE)
-- Proteus Design Suite (for simulation)
+- Proteus 8 Professional (for simulation)
 
 ---
 
@@ -77,24 +77,12 @@ A minimalist implementation of the classic Pong game built for the ATmega328P mi
 
 4. **Simulate in Proteus:**
 
-   - Open the Proteus project file in the `/simulation` folder.
+   - Open the Proteus project file (.pdsprj)
    - Double-click on the atmega328p and use the same options as the image below (In the Program File select the HEX file)
    
 ![image](https://github.com/user-attachments/assets/34f0e4ff-f1cf-4958-b84d-67ecb4facf1a)
 
    - Run the simulation to test the game.
-
----
-
-## Repository Structure
-
-```
-Pong328/
-├── assembly_code/        # Contains the .asm, .inc source files
-├── simulation/           # Proteus simulation file (.pdsprj)
-├── LICENSE               # License file 
-└── README.md             # This file
-```
 
 ---
 
