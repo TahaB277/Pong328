@@ -60,7 +60,7 @@ A minimalist implementation of the classic Pong game built for the ATmega328P mi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/TahaB277/Pong328.git
    ```
 
 2. **Assemble the Circuit:**
