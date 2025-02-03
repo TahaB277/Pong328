@@ -1,7 +1,8 @@
 # Pong328
 
 A minimalist implementation of the classic Pong game built for the ATmega328P microcontroller. Programmed entirely in assembly, this project uses a monochrome LCD display (ST7735R with 128x160 resolution) and push buttons for paddle control. The game features two BCD 7-segment display to keep track of the score. Designed primarily for simulation in Proteus, with plans for real-world circuit optimization in the future, this project showcases low-level programming and embedded systems concepts.
-![Media1online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f397f315-31ef-49e5-bffa-f7f9ec1ddb44)
+![pongGif-ezgif com-optimize](https://github.com/user-attachments/assets/c57ef8fe-c9df-4ea0-b3b7-fe4b54f501c7)
+
 
 ---
 
